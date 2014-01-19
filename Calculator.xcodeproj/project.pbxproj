@@ -112,8 +112,6 @@
 		1F4568EA1888983B00B9DD5F /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				1F4568F31888983B00B9DD5F /* THCAppDelegate.h */,
-				1F4568F41888983B00B9DD5F /* THCAppDelegate.m */,
 				1F4568F61888983B00B9DD5F /* Main.storyboard */,
 				1F4568F91888983B00B9DD5F /* THCViewController.h */,
 				1F4568FA1888983B00B9DD5F /* THCViewController.m */,
@@ -126,6 +124,8 @@
 		1F4568EB1888983B00B9DD5F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1F4568F31888983B00B9DD5F /* THCAppDelegate.h */,
+				1F4568F41888983B00B9DD5F /* THCAppDelegate.m */,
 				1F4568EC1888983B00B9DD5F /* Calculator-Info.plist */,
 				1F4568ED1888983B00B9DD5F /* InfoPlist.strings */,
 				1F4568F01888983B00B9DD5F /* main.m */,

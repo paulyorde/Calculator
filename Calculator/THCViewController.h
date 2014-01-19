@@ -9,5 +9,20 @@
 #import <UIKit/UIKit.h>
 
 @interface THCViewController : UIViewController
+{
+    
+    int total;
+    int mode;
+    NSString  *valueString;
+    IBOutlet UILabel *label;
+    BOOL lastButtonWasMode;
+    
+}
+
+// access outside of this file / in storyboard
+-(IBAction)tappedClear:(id)sender;
+-(IBAction)tappedNumber:(UIButton*)btn;
+-(IBAction)tappedPlus:(id)sender;
+-(IBAction)tappedEquals:(id)sender;
 
 @end
