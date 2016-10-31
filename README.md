@@ -1,4 +1,3 @@
-Calculator
-==========
+# Personal project
 
-An iPhone App for Teamtreehouse contest
+Project Technologies: IOS, Xcode, and Objective-C
